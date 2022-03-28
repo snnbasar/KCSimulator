@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Karinca
+  - TestTube
+  - Kapi
+  - opencloseDoor
+  - opencloseDoor1
+  - Drawer_Pull_X
+  - Drawer_Pull_Z
+  - Kutu
+  - Besin
+  - YayinRoom
+  - Footsteps/GRASS
+  - Footsteps/METAL
+  - Footsteps/WOOD
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Interectable
+  - PostProcess
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
