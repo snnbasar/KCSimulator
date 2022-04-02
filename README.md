@@ -1,6 +1,8 @@
 # KCSimulator
 A simulator game for Elraenn
 
+https://disk.yandex.com.tr/d/f9sOUVKOafP_5Q
+
 Gameplay Videos:
 
 https://youtu.be/t_vla533nUM
